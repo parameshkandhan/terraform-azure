@@ -1,0 +1,5 @@
+location            = "East US"
+resource_group_name = "rg-tf-ha-web"
+vm_size             = "Standard_B2s"
+admin_username      = "azureuser"
+admin_password      = "ChangeThisPassword123!"
